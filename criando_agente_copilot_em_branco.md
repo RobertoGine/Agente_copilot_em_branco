@@ -1,6 +1,6 @@
 # Guia Rápido: Criando e Customizando um Agente no Microsoft Copilot Studio
 
-## 🚀 1. Criar um agente Copilot do zero (em branco)
+##  1. Criar um agente Copilot do zero (em branco)
 
 1. Acesse o [Microsoft Copilot Studio](https://copilotstudio.microsoft.com).
 2. Clique em **"Criar agente"**.
@@ -10,7 +10,7 @@
 
 ---
 
-## 🧠 2. Customizar um tópico
+##  2. Customizar um tópico
 
 1. No menu lateral, vá até **"Tópicos"**.
 2. Clique em **“+ Novo tópico”**.
@@ -22,7 +22,7 @@
 
 ---
 
-## ❌ 3. Personalizar mensagem de erro do tópico
+##  3. Personalizar mensagem de erro do tópico
 
 1. No editor de tópicos, clique em **“+”** para adicionar uma ação após uma tentativa de resposta.
 2. Para personalizar a **mensagem de erro padrão**:
@@ -33,7 +33,7 @@
 
 ---
 
-## 🔧 4. Ajustar a qualidade da resposta com GenAI
+##  4. Ajustar a qualidade da resposta com GenAI
 
 1. No tópico, adicione um **bloco de resposta com IA**.
 2. Escreva um **prompt personalizado** para guiar a resposta da IA.
@@ -43,4 +43,7 @@
      - **Mais alto**: respostas mais criativas e detalhadas.
 4. Você também pode usar **parâmetros de contexto** para refinar a geração da resposta (ex: tom, estilo e detalhes).
 
+## Documentação do Microsoft Copilot Studio
+
+## Acesse a [documentação do Microsoft Copilot Studio](https://learn.microsoft.com/pt-br/microsoft-copilot-studio/)
 ---
