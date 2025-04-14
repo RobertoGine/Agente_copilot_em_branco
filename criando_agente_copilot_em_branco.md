@@ -43,7 +43,7 @@
      - **Mais alto**: respostas mais criativas e detalhadas.
 4. Você também pode usar **parâmetros de contexto** para refinar a geração da resposta (ex: tom, estilo e detalhes).
 
-## Documentação do Microsoft Copilot Studio
+- Fonte: Microsoft
 
 ## Acesse a [documentação do Microsoft Copilot Studio](https://learn.microsoft.com/pt-br/microsoft-copilot-studio/)
 ---
